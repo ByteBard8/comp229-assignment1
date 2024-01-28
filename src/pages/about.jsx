@@ -12,7 +12,7 @@ export default function About() {
           and losing myself in the magic of words on a page.
            Let's embark on this adventure together!</p>
         <p>Find my full professional resume <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk&pp=ygULbG8gZmkgbXVzaWM%3D">here</a></p>
-      <img src="src\assets\shiba_inu_generated.png" className="border-primary img-fluid rounded rounded-circle" width="50%" height="50%"></img>
+      <img src="shiba_inu_generated.png" className="border-primary img-fluid rounded rounded-circle" width="50%" height="50%"></img>
         </div> 
       </div>
     );

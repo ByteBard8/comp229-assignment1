@@ -14,7 +14,7 @@ export default function Contact() {
         <div className="container container-fluid m-1 p-1 mx-auto">
         <h5 className="text-muted">Contact</h5>
         <div class="card m-2" style={{width: "18rem"}}>
-  <img class="card-img-top" src="src\assets\shiba_inu_generated.png" alt="Card image cap"></img>
+  <img class="card-img-top" src="shiba_inu_generated.png" alt="Card image cap"></img>
   <div class="card-body">
     <h5 class="card-title">Contact Info</h5>
     <p class="card-text">Address <address>350 rue Levy Montreal, QC H3C 5K4</address></p>
