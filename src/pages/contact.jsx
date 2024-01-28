@@ -1,3 +1,9 @@
+/*
+ * Created on Sun Jan 28 2024
+ *
+ * Sandeep, ID 301400662
+ */
+
 import {useNavigate} from 'react-router-dom';
 
 export default function Contact() {
@@ -5,7 +11,6 @@ export default function Contact() {
     const handleSubmit = (event) => {
         // Prevent the default form submission behavior
         event.preventDefault();
-        // Your logic here
         alert('Form submitted!');
         navigate('/');
       };

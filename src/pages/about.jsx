@@ -1,3 +1,9 @@
+/*
+ * Created on Sun Jan 28 2024
+ *
+ * Sandeep, ID 301400662
+ */
+
 export default function About() {
     return (
     <div className="container container-fluid m-1 p-1 mx-auto">

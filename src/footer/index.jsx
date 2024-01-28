@@ -1,3 +1,10 @@
+/*
+ * Created on Sun Jan 28 2024
+ *
+ * Sandeep, ID 301400662
+ */
+
+
 import React from 'react'
 
 const Footer = () => {
